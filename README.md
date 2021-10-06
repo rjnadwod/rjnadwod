@@ -1,4 +1,4 @@
-### rjnadwod
+# About Me
 
   I am an outgoing senior at the University of Arkansas studying Computer Science and Engineering with a graduation date of December 2021. I am currently seeking a Fall 2021 internship or full time SWE position upon graduation.
 
