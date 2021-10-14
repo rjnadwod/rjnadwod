@@ -2,8 +2,8 @@
 
   I am an outgoing senior at the University of Arkansas studying Computer Science and Engineering with a graduation date of December 2021. I am currently seeking a Fall 2021 internship or full time SWE position upon graduation.
 
- - Current Projects: Android Email Client, Discord.JS Bot
- - Currently Learning: Java/Kotlin/Android, JavaScript
+ - Current Projects: Android Email Client, RESTful API
+ - Currently Learning: C#, .NET, Docker, k8s, Java/Kotlin/Android
 
 ## Learning websites I participate in
  - TryHackMe: https://tryhackme.com/p/VP77 (Most Frequent)
