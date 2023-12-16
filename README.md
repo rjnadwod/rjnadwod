@@ -1,9 +1,6 @@
 # About Me
 
-  I am an outgoing senior at the University of Arkansas studying Computer Science and Engineering with a graduation date of December 2021. I am currently seeking a Fall 2021 internship or full time SWE position upon graduation.
-
- - Current Projects: Android Email Client, RESTful API
- - Currently Learning: C#, .NET, Docker, k8s, Java/Kotlin/Android
+I am a Software Engineer working at Vitech Systems Group based out of New York, NY. I do Full Stack development using Java 8/11 for a Spring Boot web app as well as Java 17 + React for another web app. I have familiarity with multiple IDE's across several languages as well as experience with JIRA, Confluence, TortoiseSVN, and Github for code review and PR's. I have experience with PGSQL and Oracle SQL databases as well, utilizing Hibernate & JPA in Java to pass data to and from web apps and database servers.
 
 ## Learning websites I participate in
  - TryHackMe: https://tryhackme.com/p/VP77 (Most Frequent)
