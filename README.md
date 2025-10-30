@@ -18,9 +18,13 @@ A few of my favorite technical highlights include:
 
 Tech I love working with:
 🧱 GitLab CI/CD, Jenkins, Docker, Podman, Bash, YAML, PowerShell
+
 ☁️ AWS, WebLogic, Oracle Database, Cloud automation tools
+
 💻 Java, Spring Boot, React, SQL, PL/pgSQL
+
 🔒 SAST, dependency scanning, patching, security compliance
+
 
 I’m always looking for ways to make software delivery faster, safer, and more transparent. Whether it’s automating builds, optimizing infrastructure, or collaborating with developers, my goal is simple — build systems that let people focus on writing great code.
 
