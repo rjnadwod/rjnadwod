@@ -17,6 +17,7 @@ A few of my favorite technical highlights include:
 🧰 Building efficient, lightweight Docker and Podman images for microservices and legacy systems alike.
 
 Tech I love working with:
+
 🧱 GitLab CI/CD, Jenkins, Docker, Podman, Bash, YAML, PowerShell
 
 ☁️ AWS, WebLogic, Oracle Database, Cloud automation tools
