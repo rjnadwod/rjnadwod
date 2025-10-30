@@ -1,11 +1,12 @@
 # About Me
 
-I am a Software Engineer working at Vitech Systems Group based out of New York, NY. I do Full Stack development using Java 8/11 for a Spring Boot web app as well as Java 17 + React for another web app. I have familiarity with multiple IDE's across several languages as well as experience with JIRA, Confluence, TortoiseSVN, and Github for code review and PR's. I have experience with PGSQL and Oracle SQL databases as well, utilizing Hibernate & JPA in Java to pass data to and from web apps and database servers.
-
-## Learning websites I participate in
- - TryHackMe: https://tryhackme.com/p/VP77 (Most Frequent)
- - Leetcode: https://leetcode.com/rjnadwod/ (2nd Most Frequent)
- - HackerRank: https://www.hackerrank.com/riley_nadwodny (Seldom)
+ Detail-oriented and versatile DevOps Engineer with a solid background in full-stack development, cloud
+ infrastructure, and CI/CD automation. Experienced in designing, maintaining, and optimizing deployment
+ pipelines using tools like GitLab CI/CD, Jenkins, and Docker to drive faster, more reliable software delivery.
+ Proven ability to improve system reliability, enforce security best practices, and empower development teams
+ throughout the SDLC. Track record of delivering scalable, efficient, and secure solutions at Quarterhill, Vitech
+ Systems Group, and Western Union. Collaborative and proactive in Agile environments, with a strong focus on
+ continuous improvement and operational excellence
 
 <!--
 **rjnadwod/rjnadwod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
